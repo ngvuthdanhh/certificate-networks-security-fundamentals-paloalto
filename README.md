@@ -37,12 +37,6 @@ This repository contains **notes, labs, images, extras, and the certificate of c
 
 ---
 
-## 📋 Playbooks
-- 📄 [common-playbooks.md](./playbooks/common-playbooks.md) – Security operation playbooks  
-*(Create this file if needed for firewall, IPS, VPN, and monitoring guidelines)*
-
----
-
 ## 🔬 Extras
 - 📄 [case-studies.md](./extras/case-studies.md) – Network security case studies  
 - 📄 [resources.md](./extras/resources.md) – Reference materials  
